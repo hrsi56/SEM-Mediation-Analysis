@@ -1,0 +1,19 @@
+
+Model Test User Model:
+
+  Test statistic                                59.671
+  Degrees of freedom                                31
+  P-value                                        0.001
+
+User Model versus Baseline Model:
+
+  Comparative Fit Index (CFI)                    0.973
+
+Root Mean Square Error of Approximation:
+
+  RMSEA                                          0.083
+
+Other Fit Indices:
+
+  Goodness of Fit Index (GFI)                    0.946
+                                                      
