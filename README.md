@@ -14,7 +14,7 @@ A flat regression model misses this: it reports the *combined* direct+indirect e
 
 ## Dataset
 
-- **N = 133** observations (survivors assessed via clinical intake questionnaires).
+- **N = 123** observations (survivors assessed via clinical intake questionnaires).
 - **Exposure variables:** Pre-trauma use of alcohol, cannabis, MDMA, LSD, cocaine, DOSA, "doctor" (prescribed), MMC, and polydrug combinations.
 - **Outcome variables:** VAS-Anxiety, GAD-7, PHQ-9, PDS-5 total + four DSM-5 subscales (Intrusive, Avoidance, Negative Mood, Hyperarousal).
 - **Hypothesized mediator:** Peritraumatic Dissociative Experiences (PDEQ).
@@ -109,7 +109,7 @@ Full SEM path diagrams with standardized coefficients (`***` p<0.001, `**` p<0.0
 
 ## Methodological Notes
 
-- **Bootstrap choice.** With N=133 and a complex structural model, parametric SEs lean on multivariate-normality assumptions that are hard to justify for Likert-scale clinical data. Bias-corrected bootstrap with 5,000 draws trades compute time for inference that survives the distributional assumptions.
+- **Bootstrap choice.** With N=123 and a complex structural model, parametric SEs lean on multivariate-normality assumptions that are hard to justify for Likert-scale clinical data. Bias-corrected bootstrap with 5,000 draws trades compute time for inference that survives the distributional assumptions.
 - **Interpretation of partial mediation.** The remaining direct path is significant but attenuated once the mediator is included — meaning dissociation accounts for part, not all, of the alcohol → symptom effect. Other unmodeled mechanisms remain.
 - **Specificity.** The model was estimated on *all* substances jointly. Alcohol's mediation path is the only one that survives — so the result is not an artifact of reduced statistical power in a single-substance model.
 - **Limitations.** Cross-sectional design (cannot establish temporal causality); self-report of substance use; single population.
