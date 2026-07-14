@@ -1,6 +1,6 @@
 # SEM Mediation Analysis — Pre-Trauma Substance Use & PTSD Outcomes
 
-> Structural Equation Modeling with bootstrap-based mediation inference, applied to a clinical dataset of 133 survivors of a mass-casualty terror attack. Core analysis published in *World Psychiatry* (IF 60+).
+> Structural Equation Modeling with bootstrap-based mediation inference, applied to a clinical dataset of 123 survivors of a mass-casualty terror attack. Core analysis published in *World Psychiatry* (IF 60+).
 
 **Status:** Analysis complete. Published manuscript: [Nacasch, Dejorno et al., *World Psychiatry* 23(3), 2024](https://doi.org/10.1002/wps.21254).
 
